@@ -22,6 +22,7 @@
       "url": "pep.briangonzalez.org/blob/master/LICENSE-MIT"
     }
   ],
+  "main": "src/jquery.pep.js",
   "dependencies": {
     "jquery": "*"
   },
